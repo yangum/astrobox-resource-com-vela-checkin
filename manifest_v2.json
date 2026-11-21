@@ -1,0 +1,30 @@
+{
+  "item": {
+    "id": "com.vela.checkin",
+    "restype": "quick_app",
+    "name": "打卡程序",
+    "description": "会逐渐完善的打卡小程序，可以提意见",
+    "preview": [
+      "media/preview-checkin.png",
+      "media/preview-done.png",
+      "media/preview-settings.png"
+    ],
+    "icon": "media/logo.png",
+    "cover": "media/cover-3x2.png",
+    "author": [
+      {
+        "name": "yangum",
+        "bindABAccount": true
+      }
+    ]
+  },
+  "links": [],
+  "downloads": {
+    "xmb10p": {
+      "version": "0.5.0",
+      "file_name": "downloads/daka.0.5.0.rpk",
+      "versionCode": 5
+    }
+  },
+  "ext": {}
+}
